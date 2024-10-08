@@ -1,4 +1,4 @@
-![Alt text](path/to/image.png)
+![Alt text](LIP.png)
 
 
 # **Language Identification in South African Texts**
